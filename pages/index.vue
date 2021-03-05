@@ -9,7 +9,7 @@
 </template>
 
 <script>
-import CounterBox from "~/components/CounterBox/index.vue"
+import CounterBox from "~/components/counterBox/index.vue";
 export default {
     components: {
         CounterBox
