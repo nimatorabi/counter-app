@@ -19,7 +19,7 @@ export default {
     },
     methods:{
         addCounter(){
-            this.$store.commit("counter/ADD_STEP",parseInt(this.counterStep))
+            this.$store.commit("counter/ADD_STEP",this.counterStep)
             this.counterStep = null
         }
     }
