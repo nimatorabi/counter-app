@@ -1,5 +1,5 @@
 <template>
-<div>
+<div class="bg-white shadow-lg py-4 rounded my-4">
     <counter-input />
 </div>
 </template>
