@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-white shadow-md rounded border border-dark mb-4">
+  <div class="bg-white shadow-md rounded border border-dark mb-4 overflow-hidden">
       <div class="px-5 pt-2">
           <p>
               step {{counterStep}}
