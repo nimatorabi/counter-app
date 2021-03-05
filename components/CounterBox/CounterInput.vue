@@ -1,7 +1,7 @@
 <template>
 <div class="px-4">
     <b-input-group >
-        <b-form-input placeholder="step" />
+        <b-form-input placeholder="step" type="number" />
         <b-input-group-append>
             <b-button variant="dark">Add Counter</b-button>
         </b-input-group-append>
